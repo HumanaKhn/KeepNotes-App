@@ -94,7 +94,7 @@ class NoteFragment : Fragment() {
         rvNote=view.findViewById(R.id.rv_note)
         setUpFirebaseAdapter()
 
-        return view
+        return vie
 
 
     }
